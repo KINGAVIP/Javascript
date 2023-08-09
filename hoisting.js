@@ -44,3 +44,21 @@
 //     console.log("Hi this is abhi");
 // }
 // a()
+
+console.log(all)
+var all;
+console.log(all)
+all="Avi"
+fn()
+function fn()
+{
+    console.log("Hello");
+}
+fn()
+// container();
+var container=function()
+{
+    console.log("I am expression");
+}
+container();
+
